@@ -32,10 +32,6 @@ header {
     align-items: center;
     justify-content: space-around;
 
-}
-nav {
-display: flex; 
-}
 
 .logo {
     display: flex;
